@@ -1,2 +1,2 @@
 # .vimrc
-place .vimrc to ~/ (home directory)
+place [.vimrc](.vimrc) to ~/ (home directory)
