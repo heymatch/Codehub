@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.php": "php",
         "bitset": "cpp",
         "array": "cpp",
         "atomic": "cpp",
@@ -67,6 +68,24 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "ios": "cpp",
+        "xfacet": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xmemory0": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "any": "cpp",
+        "bit": "cpp",
+        "charconv": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "variant": "cpp"
     }
 }
